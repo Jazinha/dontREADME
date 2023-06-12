@@ -1,0 +1,14 @@
+# ignore All. log files
+*.log
+
+#ignore ALL files in Any directory named temp
+temp/
+
+# Ignore Windows system files
+.DS_Store
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore files related to API keys
+.env
