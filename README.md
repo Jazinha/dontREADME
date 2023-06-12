@@ -35,7 +35,10 @@ THEN I am taken to the corresponding section of the README
 ## Tests
 ![image](https://github.com/Jazinha/dontREADME/assets/117381175/158c0153-65df-4217-b288-70883506272d) 
 
-https://drive.google.com/file/d/1kCnFRf5j05V_Bc-BaMKastn1PMy4VaP2/preview
+https://drive.google.com/file/d/1kCnFRf5j05V_Bc-BaMKastn1PMy4VaP2/preview 
+
+![image](https://github.com/Jazinha/dontREADME/assets/117381175/7e457a5f-337d-455f-96f4-ed5c5883e15f)
+
 
 ## License
 MIT
